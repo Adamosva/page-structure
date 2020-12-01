@@ -56,11 +56,10 @@ body {
 
 .responsive {
       width:50%;
-      height: 60%;
-      padding: 40px;
+     
 }
 .dark-mode{
     background-color: black;
-  color: white;
+  color: red;
 
 }
