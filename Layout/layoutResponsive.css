@@ -9,8 +9,8 @@ body {
 }
 
 .header{
-    background-color: bisque;
-    text-shadow: 2px 2ppx whitesmoke;
+    background-color: whitesmoke;
+    text-shadow: 2px 2ppx black;
     text-align: center;
     padding:30px;
     font-size: 150%;
