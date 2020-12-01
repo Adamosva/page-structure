@@ -1,7 +1,7 @@
 /* The navbar container */
 .navbar {
     overflow: hidden;
-    background-color: #ff0000;
+    background-color: black;
     font-size: 16px;
   }
   
@@ -9,7 +9,7 @@
   .navbar a {
     float: left;
     display: block;
-    color: yellow;
+    color: white;
     text-align: center;
     padding: 15px 20px;
     text-decoration: none;
@@ -38,15 +38,15 @@
   /* Add a red background color to navbar links on hover */
   .navbar a:hover,
   .dropmenu:hover .dmbutton {
-    background-color: lime;
-    color: magenta;
+    background-color: grey;
+    color: white;
   }
   
   /* Dropdown content (hidden by default) */
   .dropmenucontent {
     display: none;
     position: absolute;
-    background-color:blue;
+    background-color:black;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
