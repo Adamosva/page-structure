@@ -17,7 +17,7 @@ body {
 }
 
 .leftcol{
-    background-color: aqua;
+    background-color: brown;
     float: left;
     width: 25%;
     padding: 20px;
@@ -25,17 +25,17 @@ body {
 }
 
 .maincontent{    
-    background-color: goldenrod;
+    background-color: powderblue;
     width: 50%;
     padding: 20px;
     border-style: groove;
     float: left;
-    transform: rotate(20deg);
+    transform: rotate(180deg);
 }
 
 .rightcol{
     float: right;
-    background-color: plum;
+    background-color: navy;
     width: 25%;
     padding: 20px;
     border-style: groove;
@@ -49,11 +49,13 @@ body {
 }
 
 .footer {
-    background-color: yellowgreen;
+    background-color: grey;
     text-align: right;
     color: white;
 }
 
 .responsive {
       width:50%;
+      height: 60%;
+      padding: 40px;
 }
